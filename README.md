@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @chogyan
-- 👀 I’m interested in making games.
-- 🌱 I’m currently learning C# to use unity well.
-- 📫 How to reach me ... email to pwestnow@gmail.com
+KU Student.
 
 <!---
 chogyan/chogyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
